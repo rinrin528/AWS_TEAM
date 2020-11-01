@@ -53,7 +53,6 @@ def get_salt_value(edgeNo, traffic_light):
     return rows[0][0]
 
 # xml 데이터를 보내기 전에 데이터베이스에 로깅하기 위해 작업
-def 
 
 # pip install pycryptodomex
 from Cryptodome.Hash import SHA256 as SHA

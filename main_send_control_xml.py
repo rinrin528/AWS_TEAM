@@ -38,4 +38,4 @@ print("hash_value : " + hash_value)
 # ==================================================
 filename = 'control.xml'
 send_binary = xml_hash_value_make_binary(filename, hash_value)
-print("send_binary : " + send_binary)
+print("send_binary : ", send_binary)
